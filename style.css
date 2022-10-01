@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("images/Billard.jpg");
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+#btn {
+    color: #016f32;
+    width: 9.375rem;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
