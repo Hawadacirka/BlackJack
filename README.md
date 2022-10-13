@@ -4,7 +4,7 @@ It is a cards game with numbers. This game automatically counts for you like cal
 ## My process
 I decided to build a game with javascript, since it is more efficient with numbers and I want to challenge myself with javascript.
 
-## Buiilt with
+## Built with
 HTML5
 CSS3
 JavaScript
@@ -15,5 +15,5 @@ The cards don't have spades, diamonds or hearts. It is only numbers with add/sub
 ## Resources
 Freecodecamp
 GeeksforGeeks
-Stackflow
+Stackoverflow
 
