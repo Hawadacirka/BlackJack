@@ -1,6 +1,6 @@
 ### Blackjack 
 
-## My process
+## Process
 I decided to build a game with javascript, since it is more efficient with numbers and I want to challenge myself with javascript.
 
 ## Built with
