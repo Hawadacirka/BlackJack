@@ -9,7 +9,7 @@ I decided to build a game with javascript, since it is more efficient with numbe
 - JavaScript
 
 ## Development
-The cards don't have spades, diamonds or hearts. It is only numbers with add/subtract and equal. This game automatically counts for you like calculator. 
+The cards don't feature spades, diamonds, or hearts. They only display numbers along with addition, subtraction, and equal signs.
 
 
 ## Resources
